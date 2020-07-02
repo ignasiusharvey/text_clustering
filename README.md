@@ -1,7 +1,7 @@
 # Text Clustering Implementation
 Implementation of text clustering using fastText word embedding and K-means algorithm. The dataset can be accessed via **[Kaggle](https://www.kaggle.com/dodyagung/accident).**
 
-Texts are everywhere, with social media as one of its biggest generators. People are constantly sharing them on many platforms. Rather than letting it be as it is, we can process them into something useful using text mining methods. One famous application of text mining is sentiment analysis where we can identify whether a text's opinion is positive, negative, or neutral. But here, we'll talk about another way of doing it: text clustering.
+Texts are everywhere, with social media as one of its biggest generators. People are constantly sharing them on many platforms. Rather than letting it be as it is, we can process them into something useful using text mining methods. One famous application of text mining is sentiment analysis where we can identify whether a text's opinion is positive, negative, or neutral. But here, we'll talk about another way of doing it: text clustering. For more detailed and comprehensive explanation, you can read it **[here](https://towardsdatascience.com/making-sense-of-text-clustering-ca649c190b20).**
 
 ## Steps to implement text clustering
 
